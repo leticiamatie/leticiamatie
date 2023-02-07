@@ -1,4 +1,4 @@
-### Olá! sou a Leticia Matie
+### Olá! sou a Leticia
 - Cursando ciência da computação
 - Atualmente estudando Front-End
 
