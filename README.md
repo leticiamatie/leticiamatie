@@ -1,5 +1,5 @@
 ### Oii sou a Leticia
-- Cursando ciência da computação
+- Ciência da computação
 - Estudando Front-End
 
 <p>
