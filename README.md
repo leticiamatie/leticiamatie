@@ -17,7 +17,8 @@
 </p>
   
 ![snake gif](https://github.com/leticiamatie/leticiamatie/blob/output/github-contribution-grid-snake.svg)
-   
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gurupreet&theme=light&hide_langs_below=1" />
+
+  <a href="https://github.com/Gurupreet">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?leticiamatie=Gurupreet&theme=light&hide_langs_below=1" />
 </a>
+
