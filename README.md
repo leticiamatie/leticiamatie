@@ -1,6 +1,5 @@
-### Oii sou a Leticia
-- Ciência da computação
-- Estudando Front-End
+###
+- Estudante de Ciência da computação
 
 <p>
 <a href="https://github.com/Gurupreet">
